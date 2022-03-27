@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Rafeh Qazi <qazi@cleverprogrammer.com>",
+  "author": "stephen louis <stephenlouis34e@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",

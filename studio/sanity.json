@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "opensea-blockchain-clone"
-  },
   "api": {
-    "projectId": "6gt65pn7",
+    "projectId": "u88rlmtv",
     "dataset": "production"
+  },
+  "project": {
+    "name": "coinbase-clone"
   },
   "plugins": [
     "@sanity/base",
